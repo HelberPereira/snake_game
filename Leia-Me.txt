@@ -1,0 +1,1 @@
+Para iniciar o game, vá para a pasta dist e execute o arquivo "main".
